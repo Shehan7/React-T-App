@@ -1,3 +1,7 @@
+Before proceeding with the below process, please install node modules inside the project after cloning, using below code:
+'npm install'
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
